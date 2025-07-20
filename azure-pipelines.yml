@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: sadaf-agent-pool
+  name: default
 
 steps:
 - task: NodeTool@0
